@@ -128,3 +128,5 @@ The Stock Price Simulation project is designed to be lightweight and self-contai
 ### Minimum iOS Version Requirement
 
 To run the Stock Price Simulation project on a real iOS device, the minimum iOS version required is 15.1. This version ensures compatibility with the project's codebase and its utilization of specific features and APIs introduced in iOS 15.1.
+
+
